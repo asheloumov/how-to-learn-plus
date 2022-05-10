@@ -3,4 +3,14 @@
   right: -210px;
   top: 0;
   z-index: 0;
+  background-image: url(../../../images/triangle.svg);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  width: 877px;
+  height: 877px;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
 }

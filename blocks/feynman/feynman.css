@@ -4,7 +4,7 @@
   background-size: 867px 637px;
   background-repeat: no-repeat;
   background-position: bottom left;
-  height: 890px;
+  min-height: 890px;
   box-sizing: border-box;
   position: relative;
   margin: 0;
